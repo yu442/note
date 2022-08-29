@@ -24,4 +24,24 @@
 *Prove why exist*
 ![](14.png)
 *Prove why unique and least*
-
+##### Relate Iterative Algorithm to Fixed-Point Theorem  
+![](15.png)
+![](16.png)
+![](17.png)
+*Algorithmic complexity*
+##### May and Must Analyses,a lattice View
+![](18.png)
+*Essence part*
+##### Distributivity MOP(Meet-Over-All-Paths Solution)
+![](19.png)
+![](20.png)
+##### Constant Propagation 
+![](21.png)
+*Lattice*
+![](22.png)
+*Transfer Function*
+![](23.png)
+*Non distributivity*
+##### WorkList Algorithm 
+![](24.png)
+![](25.png)
