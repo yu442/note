@@ -26,4 +26,30 @@
 ![](13.png)*Rules*
 ![](14.png)*Call*
 ![](15.png)*Example*
+
 Conclusion:上下文不敏感就像你进入一个小黑屋，不记得入口回去的时候可能会走多个入口；上下文敏感就像你进入一个小黑屋，但是记得入口回去的时候走的是来时的入入口，所以会更准确。
+
+#### Context Sensitive Pointer Analysis : Algorithm
+![](16.png)
+![](17.png)
+#### Context Sensitivity variants
+Context Insensitivity 是CS的一个特例，select为空
+![](18.png)
+##### Call-Site Sensitivity
+![](19.png)
+![](20.png)
+![](21.png)
+![](22.png)
+##### Object Sensitivity
+![](23.png) 
+Compare Call-Site with Object Sensitivity
+![](24.png)
+![](25.png)
+![](26.png)
+![](27.png)
+##### Type Sensitivity
+![](28.png)
+![](29.png)
+![](30.png)
+*三者时间和效率对比* 
+![](31.png)
